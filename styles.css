@@ -1,0 +1,163 @@
+/************************TAG Elements******************/
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+  font-color:#333333;
+  background-color: #dbedf3;
+
+
+}
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+
+
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: lighter;
+  margin-top: 0;
+
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+hr{
+  border-color: #99ddcc;
+  border-style: dotted;
+  width:4%;
+  border-bottom: none;
+  border-width: 5px;
+  margin:100px auto;
+
+
+}
+a{
+  color: #fafafa;
+  text-decoration: none;
+  font-family: 'Merriweather', serif;
+}
+a:hover{
+  color: #024249;
+}
+
+/************************ID Elements******************/
+
+
+
+/************************Class Elements******************/
+
+
+.top-container{
+  background-color: #d6e5fa;
+  padding-top: 100px;
+}
+
+
+.middle-container{
+  background-color: #dbedf3;
+
+}
+
+.bottom-container{
+  background-color: #11999E;
+  color:#fafafa;
+  font-family: 'Merriweather', serif;
+
+
+
+}
+.copyright{
+  margin: auto;
+  padding: 20px;
+  font-size: 16px;
+  font-color:#f9f6f7;
+}
+
+.heading{
+  margin:50px auto 0 auto;
+
+}
+.footer-link{
+  padding: 20px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top:400px;
+  left:400px;
+
+}
+.top-cloud{
+  position: absolute;
+  top:100px;
+  right:350px;
+}
+.profile-img{
+  height:200px;
+  width: 200px;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.computer-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.profile-img{
+  margin:50px auto;
+}
+.intro{
+  width:40%;
+  margin: 80px auto;
+}
+.contact-description{
+  width: 50%;
+
+  margin: 40px auto;
+}
+
+.btn:hover {
+  background-color: #679b9b;
+  color: white;
+}
+.btn {
+  background-color: #008CBA;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.contact-me{
+  margin-bottom: 30px;
+}
